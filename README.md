@@ -1,10 +1,10 @@
 #pi-lecture-recorder
 
-####This package consists of three useful parts.
-
 Check out this youtube video demonstration of the lecture recording device I made with my raspberry pi.
 
 [YouTube Demonstration](https://www.youtube.com/watch?v=6QNrnzQUXQ0)
+
+####This package consists of three useful parts.
 
 ```remote.py``` which handles incoming IR signals via the lirc service.
 
